@@ -11,7 +11,7 @@ In this session, we will present Machine Learning algorithms for structured data
 
 ## Slot 2 (11:15 - 12:45): Introduction to Data Science - Session 2: Time-series :chart_with_downwards_trend:
 
-**Speaker**:  Valeria Philippou, PhD
+**Speaker**:  Valeria Filippou, PhD
 
 **Description**:
 This online training course will provide you with essential knowledge to allow processing, analysis and classification of time series data using libraries such as pandas, matplotlib, seaborn, sklearn and tensorflow for Python programming language. Whether you wish to analyse weather records, healthcare data or stock price, or understand patterns of your time-series data, this training will provide you with theoretical and practical understanding on how to clean, visualise and model time series data in your workflows using Python programming language.
